@@ -6,4 +6,4 @@ resolvers ++= Seq(
 )
 
 // And finally the plugin dependency itself
-addSbtPlugin("com.websudos" %% "phantom-sbt" % "1.22.0")
+addSbtPlugin("com.websudos" %% "phantom-sbt" % "1.27.0")
